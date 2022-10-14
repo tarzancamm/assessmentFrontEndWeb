@@ -12,5 +12,5 @@ placeBtn.addEventListener('click', () => {
 })
 
 ritualBtn.addEventListener('click', () => {
-    alert("My favorite ritual is putting on a baker's hat, smearing pig blood over my body and then dancing around the fire with my friends while we chant to the pig Gods. Going to the gym is a close second.")
+    alert("My favorite ritual is going to the gym.")
 })
